@@ -1,32 +1,32 @@
-section{
-    background-color: burlywood;
-    text-align: center;
-    border: 5px dotted black;
-    margin: 5px;
+section {
+  background-color: burlywood;
+  text-align: center;
+  border: 5px dotted black;
+  margin: 5px;
 }
-Header{
-    background-color: rgb(138, 138, 138);
-    text-align: center;
-    text-decoration: underline;
-    border: 5px dotted black;
+Header {
+  background-color: rgb(138, 138, 138);
+  text-align: center;
+  text-decoration: underline;
+  border: 5px dotted black;
 }
-h2{
-    text-align: center;
+h2 {
+  text-align: center;
 }
-img{
-   width: 500px;
-   height: 500px;
-   padding: 1px;
-   border: 5px solid black;
+img {
+  width: 500px;
+  height: 500px;
+  padding: 1px;
+  border: 5px solid black;
 }
-h3{
-    text-decoration: underline;
+h3 {
+  text-decoration: underline;
 }
-H1{
-    text-align: center;
-    text-decoration: underline;
+H1 {
+  text-align: center;
+  text-decoration: underline;
 }
-body{
-    margin: 10px;
-    padding: 50px;
+body {
+  margin: 10px;
+  padding: 50px;
 }
