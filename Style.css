@@ -35,3 +35,6 @@ div {
   border: 0.5rem dashed black;
   background-color: lightskyblue;
 }
+p {
+  font-size: larger;
+}
